@@ -22,5 +22,12 @@ public class App {
 		{		
 			new examples.factory.Example();
 		}
+
+		/**
+		 * Abstract Factory
+		 */
+		{		
+			new examples.abstractfactory.Example();
+		}
 	}
 }
