@@ -1,0 +1,14 @@
+version: '3.5'
+
+services:
+  app:
+    image: openjdk:8
+    volumes:
+      - ./src:/src/java
+    working_dir: /src/java
+    command: >
+      sh -c "find . -name "*.class" -type f -delete&&
+             javac App.java&&
+             java App&&
+             rm ./App.class&&
+             find . -name "*.class" -type f -delete"
