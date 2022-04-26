@@ -36,5 +36,12 @@ public class App {
 		{
 			new examples.prototype.Example();
 		}
+
+		/**
+		 * Facade
+		 */
+		{
+			new examples.facade.Example();
+		}
 	}
 }
