@@ -15,5 +15,12 @@ public class App {
 		{		
 			new examples.singleton.Example();
 		}
+
+		/**
+		 * Factory
+		 */
+		{		
+			new examples.factory.Example();
+		}
 	}
 }
