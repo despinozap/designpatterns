@@ -29,5 +29,12 @@ public class App {
 		{		
 			new examples.abstractfactory.Example();
 		}
+
+		/**
+		 * Prototype
+		 */
+		{
+			new examples.prototype.Example();
+		}
 	}
 }
