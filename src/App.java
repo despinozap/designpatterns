@@ -43,5 +43,12 @@ public class App {
 		{
 			new examples.facade.Example();
 		}
+
+		/**
+		 * Decorator
+		 */
+		{
+			new examples.decorator.Example();
+		}
 	}
 }
