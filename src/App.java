@@ -50,5 +50,12 @@ public class App {
 		{
 			new examples.decorator.Example();
 		}
+
+		/**
+		 * Proxy
+		 */
+		{
+			new examples.proxy.Example();
+		}
 	}
 }
