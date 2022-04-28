@@ -57,5 +57,12 @@ public class App {
 		{
 			new examples.proxy.Example();
 		}
+
+		/**
+		 * Command
+		 */
+		{
+			new examples.command.Example();
+		}
 	}
 }

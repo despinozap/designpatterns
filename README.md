@@ -9,5 +9,6 @@ This is a repository with examples and practices for software design patterns, w
 - Facade
 - Decorator
 - Proxy
+- Command
 ## Run application
 - Run: **docker-compose up**
