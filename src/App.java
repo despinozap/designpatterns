@@ -64,5 +64,12 @@ public class App {
 		{
 			new examples.command.Example();
 		}
+
+		/**
+		 * Memento
+		 */
+		{
+			new examples.memento.Example();
+		}
 	}
 }

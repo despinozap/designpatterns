@@ -10,5 +10,6 @@ This is a repository with examples and practices for software design patterns, w
 - Decorator
 - Proxy
 - Command
+- Memento
 ## Run application
 - Run: **docker-compose up**
