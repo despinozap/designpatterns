@@ -1,7 +1,5 @@
 package examples.memento;
 
-import javax.swing.text.Caret;
-
 import examples.memento.models.CareTaker;
 import examples.memento.models.Originator;
 
