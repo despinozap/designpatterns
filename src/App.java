@@ -78,5 +78,12 @@ public class App {
 		{
 			new examples.observer.Example();
 		}
+
+		/**
+		 * Strategy
+		 */
+		{
+			new examples.strategy.Example();
+		}
 	}
 }
