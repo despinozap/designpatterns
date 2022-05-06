@@ -11,5 +11,6 @@ This is a repository with examples and practices for software design patterns, w
 - Proxy
 - Command
 - Memento
+- Observer
 ## Run application
 - Run: **docker-compose up**

@@ -71,5 +71,12 @@ public class App {
 		{
 			new examples.memento.Example();
 		}
+
+		/**
+		 * Observer
+		 */
+		{
+			new examples.observer.Example();
+		}
 	}
 }
