@@ -85,5 +85,12 @@ public class App {
 		{
 			new examples.strategy.Example();
 		}
+
+		/**
+		 * Data access object (DAO)
+		 */
+		{
+			new examples.dao.Example();
+		}
 	}
 }
