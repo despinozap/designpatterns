@@ -14,5 +14,6 @@ This is a repository with examples and practices for software design patterns, w
 - Observer
 - Strategy
 - Data access object (DAO)
+- Dependency injection
 ## Run application
 - Run: **docker-compose up**

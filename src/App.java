@@ -92,5 +92,12 @@ public class App {
 		{
 			new examples.dao.Example();
 		}
+
+		/**
+		 * Dependency injection
+		 */
+		{
+			new examples.dependencyinjection.Example();
+		}
 	}
 }
