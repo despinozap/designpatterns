@@ -99,5 +99,12 @@ public class App {
 		{
 			new examples.dependencyinjection.Example();
 		}
+
+		/**
+		 * Model-View-Controller (MVC)
+		 */
+		{
+			new examples.mvc.Example();
+		}
 	}
 }

@@ -15,5 +15,6 @@ This is a repository with examples and practices for software design patterns, w
 - Strategy
 - Data access object (DAO)
 - Dependency injection
+- Model-View-Controller (MVC)
 ## Run application
 - Run: **docker-compose up**
