@@ -1,9 +1,9 @@
 package examples.abstractfactory;
 
-import examples.abstractfactory.models.FactoryProducer;
-import examples.abstractfactory.factories.AbstractFactory;
-import examples.abstractfactory.models.Connection;
-import examples.abstractfactory.models.Shape;
+import examples.abstractfactory.resources.AbstractFactory;
+import examples.abstractfactory.resources.Connection;
+import examples.abstractfactory.resources.FactoryProducer;
+import examples.abstractfactory.resources.Shape;
 
 public class Example {
   

@@ -1,6 +1,6 @@
 package examples.facade;
 
-import examples.facade.models.Facade;
+import examples.facade.resources.Facade;
 
 public class Example
 {

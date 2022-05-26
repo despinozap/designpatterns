@@ -1,9 +1,9 @@
 package examples.observer;
 
-import examples.observer.models.AUDExchange;
-import examples.observer.models.CADExchange;
-import examples.observer.models.Subject;
-import examples.observer.models.USDExchange;
+import examples.observer.resources.AUDExchange;
+import examples.observer.resources.CADExchange;
+import examples.observer.resources.Subject;
+import examples.observer.resources.USDExchange;
 
 public class Example
 {

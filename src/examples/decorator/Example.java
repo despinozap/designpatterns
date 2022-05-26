@@ -1,9 +1,9 @@
 package examples.decorator;
 
-import examples.decorator.models.Enemy;
-import examples.decorator.models.BaseEnemy;
-import examples.decorator.models.HelmetDecorator;
-import examples.decorator.models.ArmourDecorator;
+import examples.decorator.resources.ArmourDecorator;
+import examples.decorator.resources.BaseEnemy;
+import examples.decorator.resources.Enemy;
+import examples.decorator.resources.HelmetDecorator;
 
 public class Example
 {

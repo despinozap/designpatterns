@@ -1,9 +1,9 @@
 package examples.dependencyinjection;
 
-import examples.dependencyinjection.models.Device;
-import examples.dependencyinjection.models.LaptopScreen;
-import examples.dependencyinjection.models.PhoneScreen;
-import examples.dependencyinjection.models.Screen;
+import examples.dependencyinjection.resources.Device;
+import examples.dependencyinjection.resources.LaptopScreen;
+import examples.dependencyinjection.resources.PhoneScreen;
+import examples.dependencyinjection.resources.Screen;
 
 public class Example
 {

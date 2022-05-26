@@ -1,6 +1,6 @@
 package examples.singleton;
 
-import examples.singleton.models.Singleton;
+import examples.singleton.resources.Singleton;
 
 public class Example
 {

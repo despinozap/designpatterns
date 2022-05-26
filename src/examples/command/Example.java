@@ -1,10 +1,10 @@
 package examples.command;
 
-import examples.command.models.BankOperation;
-import examples.command.models.Account;
-import examples.command.models.DepositAccount;
-import examples.command.models.WithdrawAccount;
-import examples.command.models.Invoker;
+import examples.command.resources.Account;
+import examples.command.resources.BankOperation;
+import examples.command.resources.DepositAccount;
+import examples.command.resources.Invoker;
+import examples.command.resources.WithdrawAccount;
 
 public class Example
 {

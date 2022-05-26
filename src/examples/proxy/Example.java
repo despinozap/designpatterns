@@ -1,6 +1,6 @@
 package examples.proxy;
 
-import examples.proxy.models.UserProxy;
+import examples.proxy.resources.UserProxy;
 
 public class Example
 {

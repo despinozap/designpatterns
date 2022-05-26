@@ -1,6 +1,6 @@
 package examples.prototype;
 
-import examples.prototype.models.Account;
+import examples.prototype.resources.Account;
 
 public class Example
 {

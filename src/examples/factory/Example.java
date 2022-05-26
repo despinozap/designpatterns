@@ -1,7 +1,7 @@
 package examples.factory;
 
-import examples.factory.models.Shape;
-import examples.factory.models.ShapeFactory;
+import examples.factory.resources.Shape;
+import examples.factory.resources.ShapeFactory;
 
 public class Example {
   

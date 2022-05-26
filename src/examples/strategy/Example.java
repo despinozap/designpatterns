@@ -1,8 +1,8 @@
 package examples.strategy;
 
-import examples.strategy.models.AdvancedAntivirus;
-import examples.strategy.models.Context;
-import examples.strategy.models.SimpleAntivirus;
+import examples.strategy.resources.AdvancedAntivirus;
+import examples.strategy.resources.Context;
+import examples.strategy.resources.SimpleAntivirus;
 
 public class Example
 {

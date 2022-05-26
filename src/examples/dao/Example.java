@@ -2,8 +2,8 @@ package examples.dao;
 
 import java.util.List;
 
-import examples.dao.models.Person;
-import examples.dao.models.PersonController;
+import examples.dao.resources.Person;
+import examples.dao.resources.PersonController;
 
 public class Example
 {

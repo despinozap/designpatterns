@@ -1,7 +1,7 @@
 package examples.memento;
 
-import examples.memento.models.CareTaker;
-import examples.memento.models.Originator;
+import examples.memento.resources.CareTaker;
+import examples.memento.resources.Originator;
 
 public class Example
 {

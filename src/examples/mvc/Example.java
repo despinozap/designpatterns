@@ -1,7 +1,7 @@
 package examples.mvc;
 
-import examples.mvc.models.FlightsController;
-import examples.mvc.models.FlightsView;
+import examples.mvc.resources.FlightsController;
+import examples.mvc.resources.FlightsView;
 
 public class Example
 {
